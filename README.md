@@ -1,7 +1,8 @@
-#MangoShare
+# MangoShare
+
 MangoShare is a peer-to-peer file sharing web application that allows users to send files directly between browsers using a simple room code — without storing any data on a server.
 
-🚀 Features
+ ## Features
 
 
 🔗 Room-based connection (6-digit code)
@@ -23,7 +24,7 @@ MangoShare is a peer-to-peer file sharing web application that allows users to s
 
 
 
-🧠 How It Works
+## How It Works
 
 
 User creates a room → gets a unique code
@@ -42,7 +43,7 @@ Receiver reconstructs and downloads the file
 
 
 
-🛠️ Tech Stack
+## Tech Stack
 Frontend
 
 
@@ -68,21 +69,10 @@ Socket.IO
 
 
 
-📂 Project Structure
-mangoshare/├── frontend/├── backend/└── README.md
-
-⚙️ Installation & Setup
-1. Clone the repository
-git clone https://github.com/your-username/mangoshare.gitcd mangoshare
-2. Setup Backend
-cd backendnpm installnode server.js
-3. Setup Frontend
-cd frontendnpm installnpm run dev
-
 🌐 Live Demo
 👉 https://mangoshare.vercel.app/
 
-🎯 Use Cases
+## Use Cases
 
 
 Quick file sharing without uploads
@@ -95,7 +85,7 @@ Sharing large files efficiently
 
 
 
-📌 Future Improvements
+## Future Improvements
 
 
 🔐 End-to-end encryption
@@ -110,12 +100,6 @@ Sharing large files efficiently
 🌍 Multi-user rooms
 
 
-
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repo and submit a PR.
-
-📜 License
-This project is open-source and available under the MIT License.
 
 If you want, I can also:
 
